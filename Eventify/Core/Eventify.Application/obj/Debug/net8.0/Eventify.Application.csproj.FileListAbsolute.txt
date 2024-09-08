@@ -1,0 +1,16 @@
+C:\Users\musta\OneDrive\Masaüstü\OnionArchitecture\Eventify\Core\Eventify.Application\bin\Debug\net8.0\Eventify.Application.deps.json
+C:\Users\musta\OneDrive\Masaüstü\OnionArchitecture\Eventify\Core\Eventify.Application\bin\Debug\net8.0\Eventify.Application.dll
+C:\Users\musta\OneDrive\Masaüstü\OnionArchitecture\Eventify\Core\Eventify.Application\bin\Debug\net8.0\Eventify.Application.pdb
+C:\Users\musta\OneDrive\Masaüstü\OnionArchitecture\Eventify\Core\Eventify.Application\bin\Debug\net8.0\Eventify.Domain.dll
+C:\Users\musta\OneDrive\Masaüstü\OnionArchitecture\Eventify\Core\Eventify.Application\bin\Debug\net8.0\Eventify.Domain.pdb
+C:\Users\musta\OneDrive\Masaüstü\OnionArchitecture\Eventify\Core\Eventify.Application\obj\Debug\net8.0\Eventify.Application.csproj.AssemblyReference.cache
+C:\Users\musta\OneDrive\Masaüstü\OnionArchitecture\Eventify\Core\Eventify.Application\obj\Debug\net8.0\Eventify.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\OnionArchitecture\Eventify\Core\Eventify.Application\obj\Debug\net8.0\Eventify.Application.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\OnionArchitecture\Eventify\Core\Eventify.Application\obj\Debug\net8.0\Eventify.Application.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\OnionArchitecture\Eventify\Core\Eventify.Application\obj\Debug\net8.0\Eventify.Application.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\OnionArchitecture\Eventify\Core\Eventify.Application\obj\Debug\net8.0\Eventify.Application.sourcelink.json
+C:\Users\musta\OneDrive\Masaüstü\OnionArchitecture\Eventify\Core\Eventify.Application\obj\Debug\net8.0\Eventify.F6A242CA.Up2Date
+C:\Users\musta\OneDrive\Masaüstü\OnionArchitecture\Eventify\Core\Eventify.Application\obj\Debug\net8.0\Eventify.Application.dll
+C:\Users\musta\OneDrive\Masaüstü\OnionArchitecture\Eventify\Core\Eventify.Application\obj\Debug\net8.0\refint\Eventify.Application.dll
+C:\Users\musta\OneDrive\Masaüstü\OnionArchitecture\Eventify\Core\Eventify.Application\obj\Debug\net8.0\Eventify.Application.pdb
+C:\Users\musta\OneDrive\Masaüstü\OnionArchitecture\Eventify\Core\Eventify.Application\obj\Debug\net8.0\ref\Eventify.Application.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\OnionArchitecture\\Eventify\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D003770-A7E7-4FE9-ADEC-ADE0C8BFD7D3}|Core\\Eventify.Application\\Eventify.Application.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\onionarchitecture\\eventify\\core\\eventify.application\\abstractions\\services\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D003770-A7E7-4FE9-ADEC-ADE0C8BFD7D3}|Core\\Eventify.Application\\Eventify.Application.csproj|solutionrelative:core\\eventify.application\\abstractions\\services\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81ABD1EA-47FB-41AD-A6C7-B32E1274ECDA}|Infastructure\\Eventify.Persistence\\Eventify.Persistence.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\onionarchitecture\\eventify\\infastructure\\eventify.persistence\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81ABD1EA-47FB-41AD-A6C7-B32E1274ECDA}|Infastructure\\Eventify.Persistence\\Eventify.Persistence.csproj|solutionrelative:infastructure\\eventify.persistence\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B96952C-ECF1-4043-B537-6C7D51560A15}|Presentation\\Eventify.API\\Eventify.API.csproj|c:\\users\\musta\\onedrive\\masa\u00FCst\u00FC\\onionarchitecture\\eventify\\presentation\\eventify.api\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B96952C-ECF1-4043-B537-6C7D51560A15}|Presentation\\Eventify.API\\Eventify.API.csproj|solutionrelative:presentation\\eventify.api\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IEventService.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\OnionArchitecture\\Eventify\\Core\\Eventify.Application\\Abstractions\\Services\\IEventService.cs",
+              "RelativeDocumentMoniker": "Core\\Eventify.Application\\Abstractions\\Services\\IEventService.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\OnionArchitecture\\Eventify\\Core\\Eventify.Application\\Abstractions\\Services\\IEventService.cs",
+              "RelativeToolTip": "Core\\Eventify.Application\\Abstractions\\Services\\IEventService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T18:02:54.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\OnionArchitecture\\Eventify\\Infastructure\\Eventify.Persistence\\Services\\EventService.cs",
+              "RelativeDocumentMoniker": "Infastructure\\Eventify.Persistence\\Services\\EventService.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\OnionArchitecture\\Eventify\\Infastructure\\Eventify.Persistence\\Services\\EventService.cs",
+              "RelativeToolTip": "Infastructure\\Eventify.Persistence\\Services\\EventService.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAEsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T18:02:30.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\OnionArchitecture\\Eventify\\Presentation\\Eventify.API\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Eventify.API\\Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Masa\u00FCst\u00FC\\OnionArchitecture\\Eventify\\Presentation\\Eventify.API\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "Presentation\\Eventify.API\\Controllers\\EventsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwCoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T17:15:24.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

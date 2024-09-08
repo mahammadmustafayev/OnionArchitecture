@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "imq1yGu7xr7UHw/sNSeF2UCaN//AoXd6IJkP47ujftfFXA4rJBIfqc9n4Pg3gup27iDoJHdEROJnAf/ZY+2Bjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnionArchitecture\\Eventify\\Infastructure\\Eventify.Infastructure\\Eventify.Infastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\musta\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\musta\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

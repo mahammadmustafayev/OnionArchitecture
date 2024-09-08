@@ -1,0 +1,12 @@
+C:\Users\musta\OneDrive\Masaüstü\OnionArchitecture\Eventify\Core\Eventify.Domain\bin\Debug\net8.0\Eventify.Domain.deps.json
+C:\Users\musta\OneDrive\Masaüstü\OnionArchitecture\Eventify\Core\Eventify.Domain\bin\Debug\net8.0\Eventify.Domain.dll
+C:\Users\musta\OneDrive\Masaüstü\OnionArchitecture\Eventify\Core\Eventify.Domain\bin\Debug\net8.0\Eventify.Domain.pdb
+C:\Users\musta\OneDrive\Masaüstü\OnionArchitecture\Eventify\Core\Eventify.Domain\obj\Debug\net8.0\Eventify.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\OnionArchitecture\Eventify\Core\Eventify.Domain\obj\Debug\net8.0\Eventify.Domain.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\OnionArchitecture\Eventify\Core\Eventify.Domain\obj\Debug\net8.0\Eventify.Domain.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\OnionArchitecture\Eventify\Core\Eventify.Domain\obj\Debug\net8.0\Eventify.Domain.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\OnionArchitecture\Eventify\Core\Eventify.Domain\obj\Debug\net8.0\Eventify.Domain.sourcelink.json
+C:\Users\musta\OneDrive\Masaüstü\OnionArchitecture\Eventify\Core\Eventify.Domain\obj\Debug\net8.0\Eventify.Domain.dll
+C:\Users\musta\OneDrive\Masaüstü\OnionArchitecture\Eventify\Core\Eventify.Domain\obj\Debug\net8.0\refint\Eventify.Domain.dll
+C:\Users\musta\OneDrive\Masaüstü\OnionArchitecture\Eventify\Core\Eventify.Domain\obj\Debug\net8.0\Eventify.Domain.pdb
+C:\Users\musta\OneDrive\Masaüstü\OnionArchitecture\Eventify\Core\Eventify.Domain\obj\Debug\net8.0\ref\Eventify.Domain.dll
