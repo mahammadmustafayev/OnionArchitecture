@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eventify.Infastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13391147d94ee2b5e2a007f01c5866d39e718afa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09a2d78d15600c7e13459a42326dc5bc0b8b7c1a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eventify.Infastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eventify.Infastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

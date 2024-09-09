@@ -71,27 +71,18 @@ public class EventService : IEventService
 
     }
 
-    public async Task UpdateEventAsync(Event updateEvent)
+    public async Task UpdateEventAsync(UpdateEventDTO updateEventDTO)
     {
-        if (updateEvent is not null)
+        if (updateEventDTO is not null)
         {
-            Event update = await _context.Events.FirstOrDefaultAsync(x => x.Id == updateEvent.Id);
-            update.Title = updateEvent.Title;
-            update.Date = updateEvent.Date;
-            update.Location = updateEvent.Location;
-            update.UpdatedDate = DateTimeOffset.UtcNow;
+            Event updateDTO = await _context.Events.FirstOrDefaultAsync(x => x.Id == updateEventDTO.Id);
+            updateDTO.Title = updateEventDTO.Title;
+            updateDTO.Date = updateEventDTO.Date;
+            updateDTO.Location = updateEventDTO.Location;
+            updateDTO.UpdatedDate = DateTimeOffset.UtcNow;
+            _context.Events.Update(updateDTO);
             await _context.SaveChangesAsync();
-            //var updateEvent = new Event()
-            //{
-            //    Title = updateEventDTO.Title,
-            //    Date = updateEventDTO.Date,
-            //    Location = updateEventDTO.Location,
-            //    CreatedDate = DateTimeOffset.UtcNow
-            //};
 
-            ////await _context.Events.Update(updateEvent);
-            //_context.Events.Update(updateEvent);
-            //await _context.SaveChangesAsync();
         }
         else
             throw new NullReferenceException();

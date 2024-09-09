@@ -2,7 +2,6 @@
 using Eventify.Application.Abstractions.Services.Concrete;
 using Eventify.Application.DTOs;
 using Eventify.Application.RequestParameters;
-using Eventify.Domain.Entities;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Eventify.API.Controllers;
@@ -40,7 +39,7 @@ public class EventsController : ControllerBase
         return Ok();
     }
     [HttpPut]
-    public async Task<IActionResult> UpdateEventAsync(Event updateEvent)
+    public async Task<IActionResult> UpdateEventAsync(UpdateEventDTO updateEvent)
     {
         await _eventService.UpdateEventAsync(updateEvent);
         return Ok();
